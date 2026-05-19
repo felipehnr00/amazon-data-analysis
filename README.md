@@ -21,12 +21,12 @@ O projeto tem como objetivo realizar o tratamento, modelagem e análise de dados
 - KPIs de desempenho
 
 ## Etapas do projeto
-- [x] Coleta dos dados
-- [x] Limpeza e tratamento inicial
-- [x] Modelagem dos dados
-- [ ] Criação de dashboards
-- [ ] KPIs e métricas
-- [ ] Automatizações e melhorias
+-  Coleta dos dados
+-  Limpeza e tratamento inicial
+-  Modelagem dos dados
+-  Criação de dashboards
+-  KPIs e métricas
+-  Automatizações e melhorias
 
 ## Aprendizados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos de:
