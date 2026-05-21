@@ -2,44 +2,50 @@
 
 ![Dashboard Preview](imagens/dashboard-preview.png)
 
-Projeto de análise de dados desenvolvido com foco em Business Intelligence e visualização de dados utilizando Power BI, SQL e Power Query.
+Business Intelligence project focused on Amazon sales and product analysis using Power BI, SQL and Power Query.
 
-## Objetivo
-O projeto tem como objetivo realizar o tratamento, modelagem e análise de dados de vendas da Amazon, gerando dashboards e indicadores para apoio à tomada de decisão.
+## Objective
 
-## Ferramentas utilizadas
+This project aims to perform data cleaning, modeling and visualization to generate business insights from Amazon product and sales-related data.
+
+## Tools Used
+
 - Power BI
 - SQL
 - Power Query
 - Excel
 - Git/GitHub
 
-## Principais análises
-- Faturamento total
-- Quantidade de vendas
-- Produtos mais vendidos
-- Avaliações de clientes
-- Distribuição por categorias
-- KPIs de desempenho
+## Key Analysis
 
-## Etapas do projeto
--  Coleta dos dados
--  Limpeza e tratamento inicial
--  Modelagem dos dados
--  Criação de dashboards
--  KPIs e métricas
--  Automatizações e melhorias
+- Most reviewed products
+- Category share by reviews
+- Rating distribution
+- Pricing analysis by category
+- Discount analysis
+- Performance KPIs
 
-## Aprendizados
-Durante o desenvolvimento deste projeto, foram aplicados conceitos de:
-- Tratamento e limpeza de dados
-- Modelagem relacional
-- Criação de dashboards
-- SQL para análise de dados
+## Project Workflow
+
+- Data collection
+- Data cleaning and transformation
+- Data modeling
+- Dashboard development
+- KPI creation
+- Data visualization
+
+## Skills Applied
+
+- Data cleaning
+- Relational modeling
+- Dashboard design
+- SQL for data analysis
 - Power Query
 - Business Intelligence
 
-## Autor
+## Author
+
 Felipe Honório
 
-LinkedIn: https://linkedin.com/in/felipehonorio00
+LinkedIn:
+https://linkedin.com/in/felipehonorio00
