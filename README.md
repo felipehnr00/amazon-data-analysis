@@ -1,7 +1,6 @@
 # Amazon Sales Dashboard
 
-![Dashboard Preview](<img width="1173" height="669" alt="dashboard-preview png" src="https://github.com/user-attachments/assets/9c21baef-6e56-431b-8652-e6c13cc4b9cd" />
-)
+![Dashboard Preview](imagens/dashboard-preview.png)
 
 Projeto de análise de dados desenvolvido com foco em Business Intelligence e visualização de dados utilizando Power BI, SQL e Power Query.
 
